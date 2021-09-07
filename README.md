@@ -19,7 +19,7 @@ The Pandas function `nunique` or `value_counts` was applied in writing syntax to
    2. The Purchasing analysis by age suggested showed the highest number of purchases (258) is by the players in the age range of 20 to 24, following by the players in the age range of 15 to 19 which considerably high school students. The combination of the players in two age ranges (365) distribute 63% of the total players. The finding could imply that the players in their 20s, the majority are financially independent college students and have more potential to pay than high school students.
    3. The total purchase value per item analysis indicated that "Final Critic" had the most purchasing frequency and gave the highest revenue among other items, even though its price ($ 4.61) is notably high when compared to the average price ($3.05). Therefore, "Final Critic" is the most popular and profitable item.
 
-# Results
+# Table of Content
 
    - [Player Count](https://nbviewer.jupyter.org/github/KeSavanh/pandas-challenge/blob/main/HeroesOfPymoli/HeroesOfPymoli.ipynb#)
    - [Purchasing Analysis (Total)](https://nbviewer.jupyter.org/github/KeSavanh/pandas-challenge/blob/main/HeroesOfPymoli/HeroesOfPymoli.ipynb#)
