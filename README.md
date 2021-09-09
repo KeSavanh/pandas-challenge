@@ -2,7 +2,7 @@
 # Background
 
 This project is part of data analysis assignments under UCSD extension data science and visualization boot camp. 
-This assignment objected to the understanding of Pandas library, having hands-on practice of using Jupiter notebook for python, and understanding some fundamental data analysis. In this assignment, the "[Heroes of Pymoli](https://github.com/KeSavanh/pandas-challenge/blob/main/HeroesOfPymoli/purchase_data.csv)" dataset is used for the analysis by demonstrating skills learned from previous lessons. This project is conducted in `Jupyter Notebook` and could refer to [Analysis of HeroesOfPymoli](https://nbviewer.jupyter.org/github/KeSavanh/pandas-challenge/blob/main/HeroesOfPymoli/HeroesOfPymoli.ipynb)
+This assignment aims to provide and reinforce the understanding of Pandas library, having hands-on practice of using Jupiter notebook for python, and understanding some fundamental data analysis. In this assignment, the "[Heroes of Pymoli](https://github.com/KeSavanh/pandas-challenge/blob/main/HeroesOfPymoli/purchase_data.csv)" dataset is used for the analysis by demonstrating skills learned from previous lessons. This project is conducted in `Jupyter Notebook` and could be refered to [Analysis of HeroesOfPymoli](https://nbviewer.jupyter.org/github/KeSavanh/pandas-challenge/blob/main/HeroesOfPymoli/HeroesOfPymoli.ipynb)
 
 # Heroes of Pymoli
 
